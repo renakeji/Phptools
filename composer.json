@@ -1,0 +1,17 @@
+{
+    "name": "renakeji/phptools",
+    "description": "some common tool classes and methods",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "renakeji",
+            "email": "renakeji@163.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Renakeji\\Phptools\\":"src/Renakeji/Phptools"
+        }
+    }
+}
